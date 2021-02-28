@@ -1,0 +1,8 @@
+name: Quakecraft
+version: 1.0
+author: snowbud56
+main: com.snowbud56.ArcadePlugin
+commands:
+  game:
+    aliases: [g, quake]
+    description: Main GameBase command.
